@@ -1,9 +1,10 @@
+import Landing from './pages/Landing'
 function App() {
 
   return (
     <>
       <div>
-        hello world
+        <Landing />
       </div>
     </>
   )
